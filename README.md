@@ -35,5 +35,3 @@ personRepository.search(queryCondition);
 - `QueryBuilders.fuzzyQuery('字段名', 字段值)`
 - `fuzziness()`方法以`编辑距离`为入参，取值有四种：0，1，2，'AUTO'
 
-源码地址：https://github.com/a479159321/elasticsearch-fuzzy-query
-
