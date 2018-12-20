@@ -1,0 +1,6 @@
+spring:
+  data:
+    jest:
+      uri: http://192.168.1.221:9200
+      username: elastic
+      password: changeme
